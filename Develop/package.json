@@ -1,14 +1,23 @@
 {
-  "name": "static-site",
+  "name": "osu-bootcamp-readme-generator",
   "version": "1.0.0",
-  "description": "",
+  "description": "## Your Task",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmadkane93/OSU-bootcamp-readme-generator.git"
+  },
+  "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahmadkane93/OSU-bootcamp-readme-generator/issues"
+  },
+  "homepage": "https://github.com/ahmadkane93/OSU-bootcamp-readme-generator#readme",
   "dependencies": {
-    "inquirer": "^6.3.1"
+    "inquirer": "^8.1.1"
   }
 }
