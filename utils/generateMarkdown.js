@@ -34,7 +34,7 @@ function generateMarkdown(data) {
   ${data.description}
 
   ## Installation
-  Click on the video link and follow the [instructions.](https://youtu.be/rOhJD0Znaeo)
+  Click on the video link and follow the [instructions.](https://youtu.be/eMvuOK0HabA)
   
   
   ## Usage
