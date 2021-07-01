@@ -1,6 +1,6 @@
-# Read Me Generator
+# Read Me File Generator
   
- Created by: Ahmad Kane
+ ###Created by: Ahmad Kane
 
 
 
@@ -17,18 +17,22 @@
   * [Contacts](#contacts)
   
   ## Description
-  Creating a generator that can create read me files for projects.
-  
+  This application will be generating readme.md files for future projects to improve efficiency.
+
   ## Installation
-  Link and clone repo.
+  Click on the video link and follow the [instructions.](https://github.com/git/)
+  
+  
+  ## Usage
+  Fill out all required type fields.
   
   ## Contribution
-  undefined
+  none
   
   ## License
-  MIT
+  MIT License
   
   ## Contacts
-  For additional information, send me an [email](gggg) or refer to my [Github](https://github.com/git/)
+  For additional information, send me an [email](ahmadkanework@gmail.com) or refer to my [Github](https://github.com/ahmadkane93/)
   
   

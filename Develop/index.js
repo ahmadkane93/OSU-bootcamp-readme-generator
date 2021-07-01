@@ -24,12 +24,7 @@ const questions = [
       name: 'description',
       
     },
-    {
-      message: ' What are your installation instructions?',
-      type: 'input',
-      name: 'installation',
-      
-    },
+    
     {
       message: 'Enter how to use the application.',
       type: 'input',
@@ -46,7 +41,7 @@ const questions = [
       message: 'What is the licensing?',
       type: 'list',
       name: 'license',
-      choices: ["MIT", "GNU", "N/A", ],
+      choices: ["MIT License", "Mozilla Public License 2.0", "Apache License 2.0", "The Unlicense"],
     },
     {
       message: 'What is your Github username?',

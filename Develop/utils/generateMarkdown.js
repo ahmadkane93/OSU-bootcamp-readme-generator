@@ -14,7 +14,7 @@ function renderLicenseSection(license) {}
 function generateMarkdown(data) {
   return `# ${data.title}
   
- Created by: ${data.author}
+ ###Created by: ${data.author}
 
 
 
@@ -32,12 +32,16 @@ function generateMarkdown(data) {
   
   ## Description
   ${data.description}
-  
+
   ## Installation
-  ${data.installation}
+  Click on the video link and follow the [instructions.](https://github.com/git/)
+  
+  
+  ## Usage
+  ${data.usage}
   
   ## Contribution
-  ${data.contribution}
+  ${data.contributions}
   
   ## License
   ${data.license}
