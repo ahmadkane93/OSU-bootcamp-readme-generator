@@ -1,38 +1,34 @@
-# a
+# Read Me Generator
   
-  b
-
-undefined
-
-# Table of Contents
-
-* [Description](#description)
-
-* [Installation](#installation)
-
-* [Contribution](#contribution)
-
-* [License](#license)
-
-* [Github](#github)
-
-## Description
+ Created by: Ahmad Kane
 
 
-c
 
+  # Table of Contents
 
-### Installation
-d
-
-## Contributing
-f
-
-## License
-MIT
-
-## Github
-g
-
-## Email
-h
+  * [Description](#description)
+  
+  * [Installation](#installation)
+  
+  * [Contribution](#contribution)
+  
+  * [License](#license)
+  
+  * [Contacts](#contacts)
+  
+  ## Description
+  Creating a generator that can create read me files for projects.
+  
+  ## Installation
+  Link and clone repo.
+  
+  ## Contribution
+  undefined
+  
+  ## License
+  MIT
+  
+  ## Contacts
+  For additional information, send me an [email](gggg) or refer to my [Github](https://github.com/git/)
+  
+  
