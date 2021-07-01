@@ -1,4 +1,4 @@
-# Read Me File Generator
+# Read Me Generator
   
  ###Created by: Ahmad Kane
 
@@ -20,14 +20,14 @@
   This application will be generating readme.md files for future projects to improve efficiency.
 
   ## Installation
-  Click on the video link and follow the [instructions.](https://github.com/git/)
+  Click on the video link and follow the [instructions.](https://youtu.be/rOhJD0Znaeo)
   
   
   ## Usage
   Fill out all required type fields.
   
   ## Contribution
-  none
+  None.
   
   ## License
   MIT License
