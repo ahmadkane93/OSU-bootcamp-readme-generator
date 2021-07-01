@@ -14,7 +14,7 @@ function renderLicenseSection(license) {}
 function generateMarkdown(data) {
   return `# ${data.title}
   
- ###Created by: ${data.author}
+ ### Created by: ${data.author}
 
 
 
