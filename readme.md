@@ -20,7 +20,7 @@
   This application will be generating readme.md files for future projects to improve efficiency.
 
   ## Installation
-  Click on the video link and follow the [instructions.](https://youtu.be/rOhJD0Znaeo)
+  Click on the video link and follow the [instructions.](https://youtu.be/eMvuOK0HabA)
   
   
   ## Usage
